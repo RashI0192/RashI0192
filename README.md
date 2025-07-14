@@ -38,6 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib"/>
 </p>
 
-### 🔗 Portfolio
-Check out my work at: https://rashi0192.github.io/rashi-portfolio
-
